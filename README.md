@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Code
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Any project
-- 📫 How to reach me --> my mail== sujitmukharjee74@gmail.com
+- 📫 How to reach me --> my mail== silverfangthegem@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: its my 2nd account
 
