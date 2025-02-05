@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thedrogon
 - 👀 I’m interested in Backend Code , Artificial Intelligence
 -    New to Open Source Contributions
-- 🌱 I’m currently learning Golang and ML
+- 🌱 I’m currently learning Typescript , Golang and ML
 - 💞️ I’m looking to collaborate on Any project
 - 📫 How to reach me --> my mail== silverfangthegem@gmail.com
 - 😄 Pronouns: He/Him
