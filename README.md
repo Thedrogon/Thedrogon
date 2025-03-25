@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescripts , React and Spring-Boot**
 
-- 📫 How to reach me **silverfangthegem@gmail.com** **aec.sayanjitmukherjee@gmail.com**
+- 📫 How to reach me **silverfangthegem@gmail.com** , **aec.sayanjitmukherjee@gmail.com**
 
 - ⚡ Fun fact **This is my 2nd account**
 
