@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayanjit Mukherjee</h1>
 <h3 align="center">A future Software Engineer from India</h3>
 
-- 🔭 I am willing to contribute to open source **Yes**
+- 🔭 I am willing to contribute to open source 
 
 - 🌱 I’m currently learning **Typescripts , React and Spring-Boot**
 
-- 📫 How to reach me **silverfangthegem@gmail.com**
+- 📫 How to reach me **silverfangthegem@gmail.com** **aec.sayanjitmukherjee@gmail.com**
 
 - ⚡ Fun fact **This is my 2nd account**
 
