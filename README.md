@@ -3,7 +3,7 @@
 
 - 🔭 I am willing to contribute to open source 
 
-- 🌱 I’m currently learning **Typescript , Golang**
+- 🌱 I’m currently learning **Python , Golang**
 
 - 📫 How to reach me **silverfangthegem@gmail.com** , **aec.sayanjitmukherjee@gmail.com**
 
